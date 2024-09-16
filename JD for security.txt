@@ -1,0 +1,213 @@
+
+
+
+
+
+
+========================================================================================================================
+BMSJS82_Cloud Security Sr. Specialist
+Description
+
+
+The Senior Specialist, Cloud Security role is directly responsible for delivery of services related to the Cloud Security Posture Management (CSPM) program. This individual is expected to be skilled in Cloud IaaS security practices and in effective cross-functional stakeholder management and must have the ability to identify optimal solutions to meet business requirements in accordance with BMS’s policies and strategies.
+
+
+Responsibilities:
+
+Support the Cloud Security operation using the Cloud Security Posture Management (CSPM) capability (Wiz) to identify vulnerabilities and misconfigurations in the BMS IaaS environments including AWS, Azure and GCP.
+Provide support for the process of assigning cloud security findings to the appropriate teams for resolution.
+Ensure continuous process improvement for the CSPM capability is ongoing including metrics and reporting, performance measurements and documentation.
+Collaborate and contribute to BMS’s Cloud Security and Application Security programs.
+
+
+
+Job Requirements:
+
+Two (2) + years’ experience in cloud infrastructure or cloud security. 
+Good communication skills.
+Analytical and problem-solving mindset with the drive to research and learn in pursuit of solutions.
+Developed soft-skills capable of supporting both IT and business teams, and comfortable with presenting and leading calls.
+Experience working with application developers and application support team.
+Domain knowledge of IaaS compute, storage, and networking resources is required.
+Networking Technologies, and Protocols – anycast, web applications, and associated protocols - HTTP/S, TLS, DNS, TCP/IP.
+Familiarity and experience with OWASP top 10 risks is a plus.
+Development or scripting experience is a plus (Python, Javascript, HTML, JSON, and REST APIs).
+Experience with compute in AWS or Azure or GCP is required.
+Experience with Cloud Security and Application Security is an advantage.
+
+
+Preferred Qualifications:
+
+Bachelor's degree in Information Technology or similar degree (or equivalent combination of education and experience) a plus.
+Professional Certifications (e.g. CISSP, CISM, GIAC etc.) is a plus.
+Experience in the pharmaceutical or consulting industry is a plus. 
+Willingness to learn and get required security and product specific certifications and training. 
+
+
+============================================================================================================================================
+
+
+
+ANSR/BMS
+
+R1568940-Digital Resiliency Lead
+Description
+The Role
+The Digital Manufacturing Resilience team is seeking to recruit a permanent Digital Manufacturing Resilience Operations Support Engineer to provides support on various Manufacturing Resilience activities like vulnerability remediation steps, ServiceNow and other databases update, issues investigation and analysis of trends. You will be consulting with management to help in the day to day business activities related to Cybersecurity projects and initiatives.
+
+Key Duties and Responsibilities:
+·       Collaborate with management to gather and analyse vulnerabilities in order to assess final remediation steps including testing and documenting the steps when applicable
+·       Become technically familiar with Cybersecurity projects and initiatives being driven to help sites during planning and implementation phase
+·       Create projects related documentation in order to socialize the technical aspects of projects or initiatives being implemented
+·       Perform ServiceNow and other databases updates like adding assets, working on tickets and general ServiceNow related tasks to maintain our inventory of assets, monitor vulnerability tickets and follow up on databases related activities
+·       Participate in roundtables and/or whiteboard exercises with Digital Manufacturing Resilience Leads to ensure all team’s operational needs are being addressed 
+·       Work both independently and in a team environment
+·       Exercise sound judgment in making decisions and recommendations within generally defined practices and policies and notify senior management when necessary
+ 
+SUPERVISION RECEIVED
+·       Incumbent receives assignments in the form of objectives and establishes goals to meet objectives.  Work is measured based on meeting established objectives and schedules.  Identifies and resolves any discrepancies from normal practices or procedures to cross-functional team, recommending and implementing corrective actions.  
+ 
+SUPERVISION EXERCISED
+·       This position is expected to be an individual contributor
+ 
+Qualifications, Knowledge and Skills Required:
+·       Knowledge of Cybersecurity related vulnerabilities investigation and remediation steps
+·       ServiceNow knowledge a plus including adding assets to ServiceNow, logging tickets and general navigation and utilization of ServiceNow
+·       Ability to influence others 
+·       Attention to safety a must
+·       Previous experience on IT and/or Cybersecurity projects a plus
+·       Project management skills is a nice to have
+·       Documentation and technical writing skills
+·       Demonstrated creative problem-solving skills in the field of IT and/or Cybersecurity
+·       Excellent written and verbal communication skills and ability to build relationships across multiple functions and sites
+·       Ability to work in a diverse work environment, manage multiple priorities, and at times, be self-directed
+·       Great organizational and time management skills
+·       Advanced Microsoft Office tools experience
+·       Knowledge of IT processes and tools a plus
+BigFix tool familiarization a plus
+Illumio tool familiarization a plus
+Claroty tool familiarization a plus
+·       Knowledge of SharePoint and/or Confluence a plus
+·       Knowledge of Agile Project Management a plus
+·       IT Infrastructure project management or hands on experience a plus
+
+
+==================================================================================================================================
+Persistent
+
+Control Execution & Automation
+Instructions to Interviewer
+•7+ years of experience of working on Data Security, Controls & Cyber Security must have- data security, 
+•Process design or improvement experience 
+•Knowledge and understanding of technology regulatory guidance and industry frameworks or standards NIST, ISO, PCI, DSS, CSA, SOC , must have
+•Experience with risk assessment methodology within the context of technology risk" good to have \
+Description
+"Technology senior leaders and team members
+•Partnering with Business Risk and Control team officers, senior specialists and applicable central technology controls teams to:
+•Perform gap analysis for policies and/or regulatory requirements
+•Conduct root cause analysis on technology incidents to identify weak or non-existing controls and create effective mitigation plans
+•Understanding of Cloud Migration, Architecture, Identity Access Management, Logging & Monitoring, Application Security, Data Protection & Security, CI/CD, SDLC, and associated controls
+•Deliver on - Control Design, Cloud Industry framework alignment, Solutions and controls alignment, Controls Automation Reporting, Control Design consultancy, Technology RCSA
+•7+ years of experience of working on Data Security, Controls & Cyber Security must have- data security, 
+•Process design or improvement experience 
+•Knowledge and understanding of technology regulatory guidance and industry frameworks or standards NIST, ISO, PCI, DSS, CSA, SOC , must have
+•Experience with risk assessment methodology within the context of technology risk" good to have \
+
+
+======================================================================================================================
+Quess
+
+MS Exchange Server
+Description
+Client: ANZ
+Exp: 3 to 7 yrs
+Location: Bangalore
+
+We have requirement for L3, so candidate should have outlook client end troubleshooting, onpremise exchange infrastructure and O365 knowledge.
+Exchange server installation and configuration will be added advantage..
+
+Configure on premise exchange, install security patches and CU to exchange servers.Deep mail flow troubleshooting in Hybrid exchange 
+environment.Troubleshooting Outlook performance degradation.Exchange cert renewal process.
+
+=========================================================================================================================
+
+ANSR
+
+BMSJS82_Cloud Security Sr. Specialist
+Description
+
+
+The Senior Specialist, Cloud Security role is directly responsible for delivery of services related to the Cloud Security Posture Management (CSPM) program. This individual is expected to be skilled in Cloud IaaS security practices and in effective cross-functional stakeholder management and must have the ability to identify optimal solutions to meet business requirements in accordance with BMS’s policies and strategies.
+
+Responsibilities:
+
+Support the Cloud Security operation using the Cloud Security Posture Management (CSPM) capability (Wiz) to identify vulnerabilities and misconfigurations in the BMS IaaS environments including AWS, Azure and GCP.
+Provide support for the process of assigning cloud security findings to the appropriate teams for resolution.
+Ensure continuous process improvement for the CSPM capability is ongoing including metrics and reporting, performance measurements and documentation.
+Collaborate and contribute to BMS’s Cloud Security and Application Security programs.
+
+Job Requirements:
+
+Two (2) + years’ experience in cloud infrastructure or cloud security. 
+Good communication skills.
+Analytical and problem-solving mindset with the drive to research and learn in pursuit of solutions.
+Developed soft-skills capable of supporting both IT and business teams, and comfortable with presenting and leading calls.
+Experience working with application developers and application support team.
+Domain knowledge of IaaS compute, storage, and networking resources is required.
+Networking Technologies, and Protocols – anycast, web applications, and associated protocols - HTTP/S, TLS, DNS, TCP/IP.
+Familiarity and experience with OWASP top 10 risks is a plus.
+Development or scripting experience is a plus (Python, Javascript, HTML, JSON, and REST APIs).
+Experience with compute in AWS or Azure or GCP is required.
+Experience with Cloud Security and Application Security is an advantage.
+
+Preferred Qualifications:
+
+Bachelor's degree in Information Technology or similar degree (or equivalent combination of education and experience) a plus.
+Professional Certifications (e.g. CISSP, CISM, GIAC etc.) is a plus.
+Experience in the pharmaceutical or consulting industry is a plus. 
+Willingness to learn and get required security and product specific certifications and training.
+
+====================================================================================================================
+
+BMSNS124-Ecosystem Risk & Supplier Management Lead
+Description
+Key Responsibilities
+Primary liaison across IT towers to manage the work intake process for IT contracts, Statements of Work & Project Schedules, Supplier Risk Management, as well as reviewing and processing approvals in alignment with BMS policies & procedures. Managing team delivery and operations for: 
+Manage contract processes that track, approve, and monitor contract changes, contract notices, and amendments.
+Track contract obligations and deliverables for strategic IT service providers, and facilitate reviews related to the service provider’s adherence.
+Track and process low-to-medium risk IT contract renewals & scope changes for IT service providers and software/SaaS suppliers, in alignment with timelines and business requirements.
+Facilitate contracts, including approvals and signature, through the BMS contract management system for review and approval in a timely fashion. 
+Lead end to end third party risk management cybersecurity, privacy, and quality reviews across the global portfolio.
+Coordinate and facilitate communications between stakeholders, BMS Legal, Global Procurement, and Service Providers.
+Support development of third-party IT risk related strategy, policy, projects, and analytics.
+Support Third Party Risk Oversight tools development.
+Support third-party contract reviews for Cybersecurity and quality related requirements.
+Manage and track SLAs for the third-party risk assessments and contract reviews.
+Ensure Risk Governance framework operates efficiently, and third-party risks are within defined Risk Appetite parameters.
+Develop, implement, and analyze assessment reports to identify areas of excessive risk and to ensure that mitigation efforts are having the desired effect(s).
+Guide and assist in the implementation of sound and effective third party risk processes across the enterprise.
+Provide counsel on third party related risk issues, ensuring an independent review of policy compliance. 
+Collaborate with other horizontal Risk SMEs (Compliance & Ethics Risk, technology, etc.) as needed to manage risks across the Third-Party Risk Lifecycle
+Aid in the development of risk analytics and reporting related to Third Party lifecycle and concentration risk.
+Guide and assist in the implementation of sound and effective Third-Party Risk processes and monitoring across all sectors and regions.
+Provide support and advise on Third Party Risk management related policies, ensuring an independent review of policy compliance. 
+Facilitate and disseminate best practices across all markets and functions.
+Using Excel, develop and maintain lists, trackers, and data to document and organize initiatives and results. 
+Using SharePoint, develop and maintain sites and repositories to store various contracting initiatives and data.
+Perform contract management administrative tasks as needed. 
+ People Management:
+Assist IT Risk management and their teams to manage staff including training and career development plans and to ensure high morale among prevention, detection, and recovery staff.
+Champion third party risk and IT supplier awareness and best practice sharing with various stakeholders and aid in the development of third-party risk management training modules.
+Raise the level of third-party risk awareness among IT and business.
+Qualifications & Experience
+Requires advanced knowledge applicable to a wide range of work in own function and thorough knowledge of other functions, typically gained through a university degree and 7-8 years of experience. Demonstrates mastery in area of specialization/responsibility. 
+Lead initiatives related to continuous improvement or implementation of new technologies. Works independently on most deliverables. 
+Responsible for the direct management of a team including results/outcomes, goal setting, performance management, coaching. Has significant impute into decisions related to hiring, performance reviews, promotions, and compensation actions.
+ People manager level with supervisory responsibility for Individual Contributor and People Manager positions.
+With support, lead business partner (client relationship manager) with function or geography. Alternatively, may be responsible for a large sub-function or multiple teams doing similar work.
+ Can package information and data that tells a story and provides insight to a broader problem. Presents and explains the implications of key information on issues important to the business unit.
+ ​Frequently interacts with other internal and external stakeholders regarding operational decisions and business requirements. Analyzes the impact of conclusions and actions on people, technology, structure, and workflow across teams.
+Gives others challenging opportunities to build strong capabilities for team.  ​Helps drive a culture which motivates awareness and learning through creating space for conversations and debate.
+ Demonstrates a focus on improving processes, structures, and knowledge within the team. Leads in analyzing current states, deliver strong recommendations in understanding complexity in the environment, and the ability to execute to bring complex solutions to completion.​
+ Stays current with emerging trends in specialty area.  Identifies future state and dimensions of change (org, tech, cultural) to achieve. Creates transition plans for new processes, implements and monitor’s change. Ensures alignment of plans with the enterprise's strategic vision and translates the vision to connect to team's work.
+Maintains a broad perspective when analyzing information and utilizes analytical thought while pushing others to do the same, considering long-term implications. Uses judgement and creativity in structuring work and finding solutions that are not obvious. Reviews and assess solutions proposed by others to determine the best path moving forward.
