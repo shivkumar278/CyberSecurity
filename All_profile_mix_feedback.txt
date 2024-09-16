@@ -1,0 +1,127 @@
+Window Client OS: I have good exp. in Window10, Window11, Window7, 
+Window Server OS:   having good exp in Window server2012, window server 2016, window server 2019
+Linux OS: I have good exp. in linux command and configuration and installing of Linux OS
+Active directry: Having good knowledge in FSMO, Domain, Forest, tree, OU 
+DHCP/DNS:Having good exp. in configuration of these tool DNS/DHCP
+Webserver:having good exp.in setup and configuration of IIS, Apache, Nagios webserver
+Cloud Services: Having good exp. on AWS cloud services like EC2, VPC, lambda, S3 
+Installing and configuring: i have good working exp. in hardware, software, systems, networks, printers, and scanners, wifi
+Office utility applications: having good exp. in toruble shooting Word, Excel, Outlook, PowerPoint, Skype, Teams, WinZip, Chrome,I Explorer
+Windows Patching: i have good exp.in window patching and  updating services like SCCM, WSUS
+Network Troubleshooting: have good exp. in router, switches, firwall, IDS/IPS 
+I have depth knowledge Windows server  High Availability,Support cloud servers including security configurations, patching, and Troubleshooting. This i have good exp. in window slow  issue, freezing, and os related issue in torubleshooting
+i have good exp. in builds, configurations, administration of Windows systems
+I am Responsible for setup, configuration, and troubleshooting of complex Windows environments likeclustering, high availability, load balancing
+Automation Scripting:Candidate has good knowledge in Powershell and shell scripting
+Bitlocker Management: i am having good exp. in bitlocker and encription and decription
+MS Exchange 2010:Candidate I have good exp. in ms exchange using mmail creation, deleting ,mail backup
+Anti SPAM and Anti Virus: I have candidae has good exp in suphose, mcafee, symentec antivirus
+Backup Restore: I have has good exp in backup and restore the server 
+DataCenter: I have good exp  in datacenter managment
+Office 365:this Having good exp in office 365 tool and trouble shoot of problem
+
+
+
+Network security: Having good exp. in network security tool Firewall,IDS/IPS,DOS,DDOS
+Routing/Switching protocal: having the good exp in configuration of routing and switching protocal like BGP,OSPF,HSRP, GLBP
+Antivirus: having the exp. in antivirus tool like suphose,mcafee,symentricto implement role and policy
+FIrewall: I have good knowledge on Palo Alto,fortigate,suphose, checkpoint, Cisco and configuration and implementation of fireeall policy
+Http/Https:Having good fundamental knowledge in this protocal  and exp in implementation of these protocal
+SSL/TLS:having good knowledge in these protocal ssl and tls and working knowledge
+DNS/DHCP: having the good knowledge in these tool and also configuration part and its process Dora process
+Load Balancers: I have good exp  in loadbalancer F5, Brocade and configuration partas well
+WAN technologies:I have good exp in MPLS, DMVPN, SDWAN
+I  have good knoeledge in MLAG, MEC, vPC, peer links protocal
+IPSec/VPN: Having good exp in ip security and creating vpn ,installing and configuration
+I have good exp in spanning tree pro tocols including, R-PVST, PVST
+Network management applications: SNMPv3 and Netflow, SolarWinds, NetBrain CA, Spectrum, Wireshark and Netscout, Cisco Prime and Cisco DNA-C
+OSI/TCP/IP model: Have good knowledge about these model and its layer,good knowledge about 7 layer and 4 layer
+Router/Switched Device:I have good handon exp on these network devices Cisco, juniper, aruba, arista
+Monitoring and Logging:having the good Experience with network management applications and related protocols such as SNMPv3 and Netflow, SolarWinds, NetBrain CA, Spectrum, Wireshark and Netscout, Cisco Prime and Cisco DNA-C
+DOS/DDOS:I have good exp in check point DOS,DDOS protector and fortinet DOS,DDOS protector
+IDS/IPS:having good exp in IDS/IPS 
+SDWAN:I have good hands on exp in Versa SD-WAN,multi-layered security,enables multi-cloud connectivity for Enterprises
+Ticket Tool:  having good exp. in ticket tool Jira, service now, hpsm, cadre, assign ticket, check the logs of ticket, forward ticket
+Certification: This candidate has completed any certification CEH, CCNA, CCNP, 
+TCP/UDP:
+
+
+Cryptography: Having good exp in cryptography and its type Secret Key Cryptography,Public Key Cryptography,Hash Functions
+Traceroute:This Having  good exp in (ICMP) traceroute protocal and UDP packets
+Firewall:Firewall:having good exp in configuration of Palo Alto,fortigate,suphose firewall
+Three-way handshake?:having exp in TCP and TCP uses a three-way handshake to establish a reliable connection. The connection is full duplex, and both sides synchronize (SYN) and acknowledge (ACK
+Error response code: having good exp in error code like 2xx,3xx,4xx,5xx 
+CIA: have good exp in Confidentiality, Integrity, and Availability and 
+Cyberattacks:have good exp in malware, social engineering, or exploiting vulnerabilities
+Data leakage: having exp in Data leakage and how can protected by physically or electronically via hard drives, USB devices, mobile phones, 
+Port scanning:  know about how we can protect from hacker and wekness and vulnerability of infrastructure
+Brute force attack: having good exp in hacking method that uses trial and error to crack passwords, login credentials, and encryption key
+Hashing and encryption: Have good knowledge in Hashing and encription and diffrence between them
+Vulnerability assessment:I have able to found loophole and weakness and how to mitigate that issue 
+Penetration testing:I have exp in Penetration testers use the same tools, techniques, and processes as attackers to find and demonstrate the business impacts of weaknesses in a system
+SSL encryption:Having good understanding in SSL is a security protocol that determines how to encrypt data using specific algorithms
+WebApp security (WAP):I have aware about the http, https protocal to secure website
+Vulnerability management program support
+Owasp top 10: have good exp in all phase of web security risk like 13/2017/2023
+DOS/DDOS:i have exp in these attack and how to mitigate and know about its type Application-layer Flood, DDOS,and Unintended Denial of Service Attack
+EDR tools: i have good exp in these tool like IBM QRadar, defender and crowdstrike
+Authorization/Authentication: having exp in MFA,single factor
+Role Policy Management:i am ware about the policy on user and systems and how to ristriction on that
+Vulnerability Management: having good exp in these vulnerability tool Tenable/Qualys/Rapid7
+Vulnerability Discovery, Prioritization, Remediation, and Reporting
+OS:He is comfortable about Linux and MS window
+Patch management tools: Having comfortable about patching toll SCCM, Ivanti, RedHat Satellite a plus
+Active Directory and Identity Management:i have good exp in identity and access management tool(IAM)
+Scripting (bash/python/powershell)
+MITRE ATT&CK and associted techniques
+
+
+
+
+
+AWS:Having good hand on exp in IAM, SG,NACL,Cloud HSM, Cognito,Amazon Inspector, Gaurd Duty,AWS Firewall Manager, Security Hub
+AWS GuardDuty: Having good exp in Guard duty
+AWS SecurityHub: I have good exp in Security hub
+Azure Security Center:I have good exp in these aws services
+AWS Shield:This I have good exp in protection of DOS,DDOS attack using aws shield
+AWS IAM:Candidate having good exp in creating ,Permission,Roles, Policies, group
+Security domain: I have good exp in cyber security, network security and web security
+IAM: AWS Organizations,AWS Resource Access Manager,AWS Directory Service,Amazon Cognito,AWS IAM Identity Center (successor to SSO)
+Detection: AWS Security Hub, Amazon GuardDuty,	Amazon Inspector,AWS Config,Amazon CloudWatch,	AWS CloudTrail,	AWS IoT Device Defender
+Network and application protection: I have exp  in	AWS Firewall Manager,AWS Network Firewall,	AWS Shield,Amazon Route 53 Resolver DNS Firewall
+AWS Web Application Firewall (WAF),AWS Verified Access (Preview);i have exp in thiese services
+Data protection: I have good exp inAmazon Macie,AWS Key Management Service (AWS KMS),AWS CloudHSM,AWS Certificate Manager,AWS Private Certificate Authority ,AWS Secrets Manager
+Incident response:having good exp inAmazon Detective,AWS Elastic Disaster Recovery
+Compliance:I have goos exp in AWS Artifact,AWS Audit Manager
+
+
+AWS Artifact
+AWS Audit Manager
+AWS Certificate Manager
+AWS CloudHSM
+AWS Directory Service
+AWS Firewall Manager
+AWS Identity and Access Management (IAM)
+AWS IAM Identity Center (formerly SSO)
+AWS Key Management Service
+AWS Network Firewall
+AWS Organizations
+AWS Resource Access Manager
+AWS Resource Groups
+AWS Secrets Manager
+AWS Security Hub
+AWS Shield
+AWS WAF
+Amazon Cognito
+Amazon Cloud Directory
+Amazon Detective
+Amazon GuardDuty
+Amazon Inspector
+Amazon Macie
+
+
+
+
+
+
+
