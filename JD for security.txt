@@ -115,19 +115,6 @@ Description
 
 
 ======================================================================================================================
-Quess
-
-MS Exchange Server
-Description
-Client: ANZ
-Exp: 3 to 7 yrs
-Location: Bangalore
-
-We have requirement for L3, so candidate should have outlook client end troubleshooting, onpremise exchange infrastructure and O365 knowledge.
-Exchange server installation and configuration will be added advantage..
-
-Configure on premise exchange, install security patches and CU to exchange servers.Deep mail flow troubleshooting in Hybrid exchange 
-environment.Troubleshooting Outlook performance degradation.Exchange cert renewal process.
 
 =========================================================================================================================
 
